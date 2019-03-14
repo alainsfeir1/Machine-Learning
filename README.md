@@ -1,2 +1,1 @@
-# Machine-Learning
-Machine Learning Techniques in Python
+Model for a simple linear regression
