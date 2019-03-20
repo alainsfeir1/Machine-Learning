@@ -1,2 +1,3 @@
 # Machine-Learning
-Machine Learning Techniques in Python
+Polynomial Linear Regression model
+
